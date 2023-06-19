@@ -29,7 +29,15 @@
     }
 </style>
 <body>
-    <?php echo "<h1>Welcome To Mangakakalot</h1>"; ?>
+    <?php echo "<h1>Welcome To MangaVerse</h1>"; ?>
     <?php echo '<a href="https://mangakakalot.app/">Mangakakalot</a>'; ?>
+    <?php echo '<a href="https://mangago.ms/">MangaGo</a>'; ?>
+    <?php echo '<a href="https://mangaowl.io/">MangaOwl</a>'; ?>
+    <?php echo '<a href="https://zinmanga.ms/">ZinManga</a>'; ?>
+    <?php echo '<a href="https://asurascans.us/">Asura Scans</a>'; ?>
+    <?php echo '<a href="https://mangakakalot.app/">Mangakakalot</a>'; ?>
+    <?php echo '<a href="https://manganelo.ms/">MangaNelo</a>'; ?>
+    <?php echo '<a href="https://manganato.ms/">MangaNato</a>'; ?>
+	
 </body>
 </html>
